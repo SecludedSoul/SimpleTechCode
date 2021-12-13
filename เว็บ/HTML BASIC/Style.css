@@ -1,0 +1,64 @@
+html, body {
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+} /* พื้นWeb Page*/
+
+.top-header {
+    background-color: rgba(0, 0, 0, 0.459);
+}
+
+.menu-item{
+    color : white;
+    padding: 15px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.box {  
+    background-color: white;
+    padding: 20px;
+    margin: 30px;
+
+}  /* ตกเเต่งกรอบ*/
+
+.image{
+    width: 50%;
+} /* จัดขนาดรูปภาพ*/
+
+.button{
+    color: black;
+    background-color: lightgray;
+    padding: 10px;
+    text-decoration: none;
+    display: inline-block;
+} /* เเต่งตัวปุ่มลิงค์*/
+
+.main-content {
+    max-width: 1000px;
+    margin: auto;
+} /* จัดรูปเเบบการว่างกรอบของ Div*/
+
+.brand{
+    font-size: 25px;
+    font-weight: 800;
+
+}
+
+.image1{
+    width: 20%;
+
+}
+
+.fontweight{
+    font-weight: 400;
+
+}
+.image3{
+    width: 90%;
+    padding-top: 15px;
+}
+.Text1{
+    padding-top: 20px;
+    font-size: 18px ;
+}
